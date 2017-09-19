@@ -1,0 +1,1 @@
+// DATABASE//comment out this line to see your user//ds.User.all();//comment out this line to make sure your login listener is working//directory.loginByPassword('demo@wakanda.io', '123')

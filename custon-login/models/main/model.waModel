@@ -1,0 +1,24 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"User": {
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 25,
+						"Y": 20
+					}
+				},
+				"panelColor": "#C3D69B"
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0
+		}
+	},
+	"dataClasses": []
+}
