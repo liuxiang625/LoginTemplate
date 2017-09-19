@@ -9,7 +9,7 @@ Documents/Wakanda/templates/backend
 That is it :) 
 
 
-**To create a Solution with this template:**
+# How to create a Solution with the Login template:
 
 1. Open Wakanda Studio
 2. Create a new project. In the Backend dialog, choose Custom-Login
