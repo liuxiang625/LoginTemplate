@@ -3,8 +3,9 @@ Login template for the Wakanda's backend
 
 # Installation
 
-1. Copy all files to:
-Documents/Wakanda/templates/backend
+1. Copy all LoginTemplate files from /custom-login  
+to your local machine at
+Documents/Wakanda/templates/backend/custom-login
 
 That is it :) 
 
