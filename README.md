@@ -3,8 +3,7 @@ Login template for the Wakanda's backend
 
 # Installation
 
-1. Copy all LoginTemplate files from /custom-login  
-to a new folder in your local machine at
+1. Copy this repository /custom-login folder to a new folder in your local machine at
 Documents/Wakanda/templates/backend/custom-login
 
 That is it :) 
