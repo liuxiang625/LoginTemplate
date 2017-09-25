@@ -1,12 +1,24 @@
-# LoginTemplate
+# LoginTemplate 
 Login template for the Wakanda's backend 
 
-# Installation
+# Installation (for Wakanda 2.2 or higher)
 
 1. Copy this repository /custom-login folder to a new folder in your local machine at
 Documents/Wakanda/templates/backend/custom-login
 
 That is it :) 
+
+
+
+# Installation (for Wakanda 2.0 or 2.1x)
+
+1. The template folder will be located in the Wakanda Studio files. Please go to where you installed your Wakanda (windows or Mac)
+
+2. Copy the folder /custom-login to 
+[your Wakanda Studio Location}/Contents/Extensions/wakanda-extension-templates/templates/backend
+
+That is it :) 
+
 
 
 # How to create a Solution with the Login template:
